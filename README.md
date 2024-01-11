@@ -1,6 +1,8 @@
 # Olá, Eu sou William Rodrigues! 👋
 
-### Sou Estudante de Sistemas de Informação e desejo seguir a área de Programação!
+### Bacharelando em Sistemas de Informação pela UVV
+Apaixonado pela tecnologia e por sempre poder aprender mais, autodidata no inglês.
+Tenho interesse em seguir na área de desenvolvimento de software mas tenho a curiosidade de conhecer sobre outras áreas da tecnologia da informação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oWilliamRodrigues&show_icons=true&theme=radical)
 
