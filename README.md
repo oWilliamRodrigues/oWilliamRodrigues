@@ -1,9 +1,12 @@
 # Olá, Eu sou William Rodrigues! 👋
 
 ### Bacharelando em Sistemas de Informação pela UVV
-Apaixonado pela tecnologia e por sempre poder aprender mais, autodidata no inglês.
-Tenho interesse em seguir na área de desenvolvimento de software mas tenho a curiosidade de conhecer sobre outras áreas da tecnologia da informação
 
+- Apaixonado pela tecnologia e por sempre poder aprender mais, autodidata no inglês.
+- Tenho interesse na área de desenvolvimento de software mas tenho a curiosidade em outras áreas como por exemplo: jogos
+- Estudo Fullstck mas tenho mais afinidade com Front-End
+
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oWilliamRodrigues&show_icons=true&theme=radical)
 
 <!-- Layout de Linguagens mais usadas
@@ -18,15 +21,3 @@ Tenho interesse em seguir na área de desenvolvimento de software mas tenho a cu
 </div>
 <!--
 **oWilliamRodrigues/oWilliamRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
