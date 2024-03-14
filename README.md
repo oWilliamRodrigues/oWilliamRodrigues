@@ -3,8 +3,8 @@
 ### Bacharelando em Sistemas de Informação pela UVV
 
 - Apaixonado pela tecnologia e por sempre poder aprender mais, autodidata no inglês.
-- Tenho interesse na área de desenvolvimento de software mas tenho a curiosidade em outras áreas como por exemplo: jogos
-- Estudo Fullstck mas tenho mais afinidade com Front-End
+- Tenho interesse na área de desenvolvimento de software tendo a curiosidade em outras áreas como por exemplo: jogos
+- Estudo Fullstack com maior afinidade com Front-End
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oWilliamRodrigues&show_icons=true&theme=radical)
