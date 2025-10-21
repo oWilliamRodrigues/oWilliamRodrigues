@@ -29,7 +29,7 @@
 
 ### 🧰 Tecnologias que utilizo
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,dotnet,sqlserver,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,cs,dotnet,postgres,git,github" />
 </div>
 
 ---
